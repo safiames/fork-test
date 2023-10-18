@@ -10,6 +10,9 @@ p {
 
 .container {
   text-align: center; /* Center text horizontally within the container */
+  border-color: black;
+  border-width: 0.1rem;
+  border-style: solid;
 }
 
 img {
