@@ -4,6 +4,10 @@ body {
   background-color: rgb(18, 231, 85);
 }
 
+p {
+  font-size: 2rem;
+}
+
 .container {
   text-align: center; /* Center text horizontally within the container */
 }
