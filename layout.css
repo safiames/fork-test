@@ -1,11 +1,18 @@
 body {
   font-family: "Roboto Serif", serif;
   font-size: 62.5%;
-  background-color: rgb(18, 231, 85);
+  background-color: #5e9523;
+}
+
+p {
+  font-size: 2rem;
 }
 
 .container {
   text-align: center; /* Center text horizontally within the container */
+  border-color: black;
+  border-width: 0.1rem;
+  border-style: solid;
 }
 
 img {
